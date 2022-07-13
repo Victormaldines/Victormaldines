@@ -1,6 +1,6 @@
 ### Eu sou o Victor. 🐱‍🐉
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormaldines&show_icons=true&theme=dracula)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=dracula&username=victormaldines)
 
 <div>
     <h3><strong>CONTATO:</strong></h3>
@@ -19,4 +19,4 @@
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-FFF?style=for-the-badge&logo=mysql&logoColor=black">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormaldines&langs_count=6)](https://github.com/victormaldines/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=6&username=victormaldines)](https://github.com/victormaldines/github-readme-stats)
